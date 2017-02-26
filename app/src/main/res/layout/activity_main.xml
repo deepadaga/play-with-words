@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="wordrush.madclub.wordrush.MainActivity"
+    android:orientation="vertical"
+    android:background="@color/colorBackground">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        android:textSize="24dp"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold"
+        android:textColor="@color/textcolor"
+        android:id="@+id/tv_wordrush"/>
+
+    <android.support.v7.widget.AppCompatButton
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        android:id="@+id/play"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:background="@drawable/ic_play_button" />
+    <TextView
+        android:layout_marginTop="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How To Play!!"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:textColor="@color/textcolor"
+        android:id="@+id/how_play"/>
+</LinearLayout>

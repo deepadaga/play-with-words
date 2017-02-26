@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_436e5fbad064560b4cab94651e6909ba877acb53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3eeee6a183acb3daac3a9a5ac3132075923160a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_7249437d49e70aed5509888249cd338366ac7cd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_504b351313b07b5f4e4bdceae58be90f49484093/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_7ce34d82746b46713415c226cbba877398ddbbae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_7841babb41bb7fa42e4f7f185cd10e52105a8d24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1810cbf4cd852c0af882aeec0baf3f7c1d752961/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1c7bc38ceb85433c36c7aca56074d003b059bb25">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c6a0c08d587a169149eff69cba5c93fb83173e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_abe48bcb10544714a5d398877d62712c505a6935/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_0c4e423d27aa99a2bf5435fbbb34e430fe9bda24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_387a1d580918046caec3f2294fe0fa17b0023960/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_3c7e0a1585b3ed377954c625fc4976f067ec44a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2ba5f7c8d11f793fb10c7b40bad4c65baaa70ec3">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_52d435de40cb14e590f7cdd48bcd2a56ac82c570/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_e50ab26bd00c5b603bd17620defa5e07a9206c3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_63ae27a7ee1aa633739bcd54b5e1dc90cea6f934/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_295b4eaf5f068aab298ac2207fcbc81f62d32ce8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_d7edd2d11db3900fa846d6cb6e5f09165553fd09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_80a3c9d16b854310427dbc7763fd9067d0edf6ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/WordRush/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_1f4a0cdacc38b2a197488e96160e5291b2401a28/classes.dex" />
+    </item>
+
+</items>
